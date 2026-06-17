@@ -1,0 +1,6 @@
+{
+  "name": "Kash",
+  "description": "Kash - Gerenciador financeiro pessoal de alta performance, otimizado para dispositivos móveis com controle de gastos, planilha de lançamentos e planejamento de metas de aportes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
